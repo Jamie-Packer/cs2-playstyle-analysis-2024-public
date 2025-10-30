@@ -64,8 +64,8 @@ Role labels are adapted from [Harry Richards' Positions Database](https://public
 **Prerequisites:** [Conda](https://docs.conda.io/en/latest/miniconda.html) or [Mamba](https://mamba.readthedocs.io/)
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/cs2-playstyle-analysis-2024.git
-cd cs2-playstyle-analysis-2024
+git clone https://github.com/Jamie-Packer/cs2-playstyle-analysis-2024-public.git
+cd cs2-playstyle-analysis-2024-public
 
 # Create and activate environment
 conda env create -f environment.yml
