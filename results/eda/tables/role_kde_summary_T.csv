@@ -1,0 +1,7 @@
+Feature,AWPer μ,AWPer σ,Half-Lurker μ,Half-Lurker σ,Lurker μ,Lurker σ,Spacetaker μ,Spacetaker σ
+Distance from Average Teammate (ADAT) – rank,0.43,0.06,0.66,0.09,0.75,0.08,0.55,0.1
+Distance to Nearest Teammate (ADNT) – rank,0.43,0.08,0.65,0.08,0.72,0.09,0.57,0.11
+Opening Attempt % (OAP),14.2,2.85,22.42,4.12,17.68,3.82,24.51,5.3
+Proportion of Deaths Traded % (PODT),21.57,2.3,25.05,2.51,24.9,3.55,24.97,3.27
+Proportion of Kills that are Trades % (POKT),25.81,2.48,23.41,2.79,25.07,3.5,21.49,3.69
+Time Alive Per Death (TAPD) (s),64.36,4.4,57.24,3.78,61.89,3.25,58.0,3.77

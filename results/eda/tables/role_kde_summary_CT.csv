@@ -1,0 +1,7 @@
+Feature,AWPer μ,AWPer σ,Anchor μ,Anchor σ,Mixed μ,Mixed σ,Rotator μ,Rotator σ
+Distance from Average Teammate (ADAT) – rank,0.53,0.03,0.75,0.13,0.64,0.09,0.5,0.11
+Distance to Nearest Teammate (ADNT) – rank,0.61,0.05,0.69,0.11,0.61,0.08,0.52,0.1
+Opening Attempt % (OAP),21.37,3.35,18.19,3.24,19.24,3.0,21.72,3.2
+Proportion of Deaths Traded % (PODT),18.8,2.69,19.52,2.81,20.13,3.33,20.03,2.57
+Proportion of Kills that are Trades % (POKT),15.86,2.21,15.9,2.23,16.48,2.49,16.1,1.8
+Time Alive Per Death (TAPD) (s),62.05,3.42,61.7,3.17,60.47,3.21,59.04,2.91

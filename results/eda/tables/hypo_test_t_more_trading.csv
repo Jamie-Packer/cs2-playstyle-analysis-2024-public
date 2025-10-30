@@ -1,0 +1,3 @@
+feature,n,mean_delta,ci95_lo,ci95_hi,t_stat,p_one_sided,alternative,test,note
+PODT,84,4.609876130370846,3.8984341183780735,5.350810260247305,12.4863844720066,4.7325472689890236e-21,T > CT,paired_t (mean Δ),Players with ≥40 maps; Δ = podt_t − podt_ct
+POKT,84,7.587971117941249,6.826470430558039,8.352514413981734,19.60896532011147,3.3633177498233875e-33,T > CT,paired_t (mean Δ),Players with ≥40 maps; Δ = pokt_t − pokt_ct

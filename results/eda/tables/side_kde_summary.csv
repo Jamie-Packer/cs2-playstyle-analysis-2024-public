@@ -1,0 +1,7 @@
+,Feature,CT μ,CT σ,T μ,T σ,n
+0,Time Alive Per Death (TAPD) (s),60.665,3.336,60.291,4.597,84
+1,Opening Attempt % (OAP),20.182,3.496,20.175,5.904,84
+2,Proportion of Deaths Traded % (PODT),19.661,2.818,24.271,3.328,84
+3,Proportion of Kills that are Trades % (POKT),16.074,2.126,23.662,3.719,84
+4,Distance to Nearest Teammate (ADNT) – rank,0.601,0.113,0.597,0.139,84
+5,Distance from Average Teammate (ADAT) – rank,0.601,0.146,0.597,0.148,84
