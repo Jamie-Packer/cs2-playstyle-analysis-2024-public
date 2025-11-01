@@ -53,7 +53,7 @@ Role labels are adapted from [Harry Richards' Positions Database](https://public
 
 ![Side Comparison KDEs](results/eda/figures/kde_side_compare.png)
 
-**Feature Correlations:** Positioning metrics (ADNT/ADAT) are (unsuprisingly) strongly correlated, inciting further investigation.
+**Feature Pearson Correlations:** Positioning metrics (ADNT/ADAT) are (unsuprisingly) strongly correlated, inciting further investigation.
 
 ![Correlation Heatmap](results/eda/figures/correlation_heatmap_split.png)
 
@@ -84,8 +84,8 @@ Navigate to `notebooks/01_eda.ipynb` to reproduce the exploratory analysis.
 | Notebook | Description | Status |
 |----------|-------------|--------|
 | `01_eda.ipynb` | Exploratory analysis, hypothesis testing, feature engineering | ✅ Complete |
-| `02_clustering.ipynb` | Unsupervised playstyle clustering | 🚧 Planned |
-| `03_classification.ipynb` | Supervised role prediction | 🚧 Planned |
+| `02_clustering.ipynb` | Unsupervised playstyle clustering | 🚧 WIP |
+| `03_classification.ipynb` | Supervised role prediction | 🚧 WIP |
 
 ---
 
